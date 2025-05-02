@@ -28,7 +28,7 @@ Téléchargement automatique depuis AWS S3 – Divvy , extraction et concaténat
 •	Téléchargement pour intégration dans Power BI
 
 **Fichier notebook associé :** 
-[Dashboard_Analyse_Trajets_Velo_Chicago_PowerBI.gif](https://github.com/ViktoryiaKM/Analyse_Trajets_Velo_Chicago_avec_Python_PowerBI/blob/main/Preparation_Analyse_trajet_Velo_Chicago__PYTHON.ipynb)
+[Preparation_Analyse_trajet_Velo_Chicago__PYTHON.ipynb](https://github.com/ViktoryiaKM/Analyse_Trajets_Velo_Chicago_avec_Python_PowerBI/blob/main/Preparation_Analyse_trajet_Velo_Chicago__PYTHON.ipynb)
 
 ## **II. Analyse et visualisation (dans Power BI)**  
 Création d’un tableau de bord interactif organisé en deux parties :  
