@@ -44,7 +44,9 @@ Création d’un tableau de bord interactif organisé en deux parties :
 •	Volume d’usage semaine vs week-end  
 •	Saisonnalité des trajets  
 
-**Fichier Power BI associé :**  
+**Fichier Power BI associé :**
+[Dashboard_Analyse_Trajets_Velo_Chicago_PowerBI.gif](https://github.com/ViktoryiaKM/Analyse_Trajets_Velo_Chicago_avec_Python_PowerBI/blob/main/Dashboard_Analyse_Trajets_Velo_Chicago_PowerBI.gif)
+
 
 ## **Outils utilisés :**  
 •	Python (Pandas, NumPy) sur Google Colab  
