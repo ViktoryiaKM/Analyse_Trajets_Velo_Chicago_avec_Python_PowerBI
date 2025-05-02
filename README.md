@@ -1,4 +1,6 @@
 # Analyse des Trajets Vélo à Chicago (Divvy) – Projet Data Analyst
+*Projet réalisé dans le cadre de ma formation à la Wild Code School.*
+
 ## **🎯 Objectif**  
 Préparer et analyser un jeu de données issu du service de vélos en libre-service Divvy à Chicago afin de :  
 •	Comprendre les comportements d’usage selon le temps, le type d’utilisateur et le type de trajet  
