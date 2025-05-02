@@ -1,4 +1,4 @@
-# Analyse des Trajets Vélo à Chicago (Divvy) – Projet Data Analyst
+# Analyse des Trajets Vélo à Chicago (Divvy)
 *Projet réalisé dans le cadre de ma formation à la Wild Code School.*
 
 ## **🎯 Objectif**  
