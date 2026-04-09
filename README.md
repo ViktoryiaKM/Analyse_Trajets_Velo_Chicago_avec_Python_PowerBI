@@ -1,13 +1,13 @@
 # Optimiser l’offre de mobilité Divvy via la visualisation des usages vélo dans Power BI
 *Projet réalisé dans le cadre de ma formation à la Wild Code School.*
 
-## **🚩Problématique **  
+##  **🚩Problématique**  
 La ville de Chicago dispose d’un service de vélos partagés (Divvy) qui générait un important volume de données non exploitées, sans vue consolidée. Impossible, dans ces conditions, d’analyser les 
   
-## **🎯 Objectif **  
+##  **🎯 Objectif**  
 Fournir un tableau de bord interactif et consolidé pour offrir aux décideurs une vision claire des usages réels du service Divvy, et ainsi optimiser la gestion du parc, adapter l’offre aux profils et aux saisons, et mieux piloter la stratégie de mobilité urbaine.  
  
-## **Données sources**  
+##  **Données sources**  
   •  	Données mensuelles 2021, au format .zip, fournies publiquement par Divvy via AWS S3  
   •	  Chaque fichier contient les trajets réalisés avec des variables comme : heure, station, durée, type d’usager, etc  
 
